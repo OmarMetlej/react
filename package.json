@@ -1,0 +1,26 @@
+{
+  "name": "git-react",
+  "version": "1.0.0",
+  "description": "\"This is a test directory to the react course\"",
+  "main": "index.html",
+  "scripts": {
+    "start":"npm run lite",
+  
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "lite":"lite-server"
+    
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/OmarMetlej/react.git"
+  },
+  "author": "Omar Metlej",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/OmarMetlej/react/issues"
+  },
+  "homepage": "https://github.com/OmarMetlej/react#readme",
+  "devDependencies": {
+    "lite-server": "^2.6.1"
+  }
+}
